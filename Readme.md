@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Герман Дольников](https://up.htmlacademy.ru/ecmascript/11/user/831175).
-* Наставник: `Алексей Тирман`.
+* Наставник: [Алексей Тирман](https://htmlacademy.ru/profile/id1411325).
 
 ---
 
